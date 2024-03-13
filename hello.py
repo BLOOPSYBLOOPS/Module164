@@ -24,7 +24,7 @@ rows = cursor.fetchall()
 
 #Parcourir les résultats
 for row in rows:
-    print("chier ce module 164",row)
+    print("chier ce module 164 de merde",row)
 
 #Fermer le curseur et la connexion à la base de données
 cursor.close()
